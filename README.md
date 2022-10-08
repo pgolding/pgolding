@@ -6,7 +6,7 @@
 
 Self-portrait via DALLE-2:
 
-![](https://twitter.com/pgolding/status/1548101970933690369/photo/1)
+[👀](https://twitter.com/pgolding/status/1548101970933690369/photo/1)
 
 <!---
 pgolding/pgolding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
