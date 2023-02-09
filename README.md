@@ -1,7 +1,8 @@
 - 👋 Hi, I’m [@pgolding](https://twitter.com/pgolding)
-- 👀 I’m interested in Deep Learning and AI magic
-- 🌱 I’m currently focussed on computational pathology (cancer detection) and ed-tech ASR
-- 💞️ I’m looking to collaborate on non-profit foundation -- mobile-first AI-first cancer diagnosis
+- 👀 I build things using Deep Learning and AI magic
+- 💡 Unusually, because of my background running innovation teams, I also do AI strategy
+- 😇 I’m currently focussed on computational pathology (cancer detection) for the developing world via a non-profit foundation
+- 💞️ If you're interested in collaborating on non-profit foundation -- mobile-first AI-first cancer diagnosis
 - 📫 How to reach me -- connect with me via [LinkedIn](https://www.linkedin.com/in/paulgolding/) and include a note!
 
 Self-portrait via DALLE-2:
