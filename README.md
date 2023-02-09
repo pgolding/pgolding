@@ -1,13 +1,13 @@
-- 👋 Hi, I’m [@pgolding](https://twitter.com/pgolding)
+- 👋 Hi, I’m [Paul Golding](https://paulgolding.com/)
 - 👀 I build things using Deep Learning and AI magic
 - 💡 Unusually, because of my background running innovation teams, I also do AI strategy
 - 😇 I’m currently focussed on computational pathology (cancer detection) for the developing world via a non-profit foundation
 - 💞️ If you're interested in collaborating on non-profit foundation -- mobile-first AI-first cancer diagnosis
 - 📫 How to reach me -- connect with me via [LinkedIn](https://www.linkedin.com/in/paulgolding/) and include a note!
 
-Self-portrait via DALLE-2:
+Self-portrait via AI:
 
-[👀](https://twitter.com/pgolding/status/1548101970933690369/photo/1)
+[👀](https://pbs.twimg.com/media/FXv2fImUYAEJuFt?format=jpg&name=small)
 
 <!---
 pgolding/pgolding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
