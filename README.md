@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [Paul Golding](https://paulgolding.com/)
-- 👀 I build things using Deep Learning and AI magic
-- 💡 Unusually, because of my background running innovation teams, I also do AI strategy
-- 😇 I’m currently focussed on computational pathology (cancer detection) for the developing world via a non-profit foundation
-- 💞️ If you're interested in collaborating on non-profit foundation -- mobile-first AI-first cancer diagnosis
+- 👀 I build things using AI and fullstack tech, typically AWS serverless
+- 👀 My first [AI patent was in 96](https://patents.google.com/?inventor=paul+golding&assignee=motorola&oq=paul+golding+motorola) and I have invented many novel AI techniques for a variety of commercial use cases in e-commerce, mobile, art, fintech, marketing, analytics, computational aesthetics etc.
+- 💡 Because of my background running innovation teams (internal "start-ups"), I know quite a bit about product and AI strategy
+- 😇 I have a non-profit interest in computational pathology (cancer detection) for the developing world
 - 📫 How to reach me -- connect with me via [LinkedIn](https://www.linkedin.com/in/paulgolding/) and include a note!
 
 Self-portrait via AI:
